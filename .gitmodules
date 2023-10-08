@@ -1,0 +1,3 @@
+[submodule "Simple_Microservice"]
+	path = Simple_Microservice
+	url = https://github.com/maestro-milagro/Simple_Microservice
